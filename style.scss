@@ -1574,7 +1574,7 @@ $fonts-PTSans:'PT Sans', sans-serif;
            font-size: 16px;
            line-height: 150%;
            color: #6B6B6C;
-           width: 667px;
+           width: 320px;
          }
    }
    .cards-2{
@@ -2044,6 +2044,7 @@ $fonts-PTSans:'PT Sans', sans-serif;
              width: 345px;
              height: 268px;
              margin-left: 15px; 
+             display: block;
                p{
                 border-bottom: 2px solid #D7D7DD;
                 font-family: $fonts-Exo2;
